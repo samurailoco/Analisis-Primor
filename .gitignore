@@ -1,0 +1,10 @@
+# Ignorar archivos grandes y temporales
+*.csv
+*.pkl
+*.h5
+*.zip
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+
