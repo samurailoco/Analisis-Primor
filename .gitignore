@@ -1,5 +1,4 @@
 # Ignorar archivos grandes y temporales
-*.csv
 *.pkl
 *.h5
 *.zip
